@@ -46,6 +46,9 @@ skills/childrens-picturebook-illustration/
 ├── 正式制图剧本.md
 ├── 制图约束规范.md
 ├── 章节重排与前后对照.md
+├── 制图参考/
+│   ├── README.md
+│   └── 录音机统一造型.png
 └── 正式素材/章节/P页码｜标题/
     ├── 无字图-1254px.png
     ├── 标题与正文-透明底.png
