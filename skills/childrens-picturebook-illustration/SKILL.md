@@ -12,7 +12,7 @@ Create illustrations that help a child follow, feel, and remember a story. Prior
 - 用户最新指示、已确认图稿与当前项目的交付规范优先于通用模板、旧提示词和历史脚本。已确认样式与范围继续沿用，不重复征询确认。
 - **最新规则：后续由用户在自己电脑上进行超分。Agent不再执行CPU或GPU超分，也不为提高场景分辨率做插值放大；新图直接保留生成时的原始像素尺寸。本仓库只交付正式原尺寸素材，不附超分工具或旧超分产物。**
 - 进行图页生成、去字、分层或交付时，读取本Skill的[图片生产与验收规范](references/image-production.md)。规范覆盖原尺寸源图保存、透明PNG、局部修字、阅读PDF及验收。
-- 当前雨林使用无字场景＋透明文字素材的分层PNG流程。项目文件以[仓库目录](../../README.md)及[通用制图约束](../../制图规范/通用制图约束规范.md)为准；鸟类与草原当前只交付剧本和规范，没有正式分层图。
+- 雨林与鸟类使用无字场景＋透明文字素材的分层PNG流程。项目文件以[仓库目录](../../README.md)及[通用制图约束](../../制图规范/通用制图约束规范.md)为准；鸟类正在逐页重绘，以素材索引列出的实际完成状态为准；草原仍只有剧本和规范。
 
 ## Scope and defaults
 
@@ -143,6 +143,8 @@ Apply these constraints to this project. The user's latest confirmed correction 
 
 ## 文件命名与当前项目
 
+- 鸟类本轮允许改动构图并缩小主体：四边约12%—15%连续自然环境缓冲，核心人物动物向内收，装订侧额外避让，逐页检查实际边距。开放精装书要有左右朝上内页、中间书槽、纸堆下薄封皮；封面小满站在一侧书页上，不再站书脊或竖直封皮边。此最新要求优先于下文旧封面提示词。
+
 - 当前文件范围和逐页索引见[仓库README](../../README.md)；文件页码用于排序，不渲染到标题中。
 - 雨林按`热带雨林绘本/正式素材/P页码｜标题/`归档，每页保存`无字图-1254px.png`、`标题与正文-透明底.png`及有需要的专用纸签。来源与实际尺寸核对后逐字节保存，不为凑尺寸缩放场景。
 - 雨林文案以[正式制图剧本](../../热带雨林绘本/正式制图剧本.md)及[制图约束](../../热带雨林绘本/制图约束规范.md)为准。P13保留两侧连续护栏，P15保留自然站姿和扶栏手臂。
@@ -167,34 +169,31 @@ Apply these constraints to this project. The user's latest confirmed correction 
 - Check child proportions, body–furniture intersections, species-specific feet and legible motion; retain approved footwear, book props and Yuyu's pendant.
 - For water scenes, map reflections to their actual sources and check perspective, ripples and occlusion by the deck, foreground and fact sticker before deciding a reflection is missing.
 
-## Page 1: cover — locked illustration brief
+## Page 1: cover — current illustration brief
 
-**Format and role:** 1:1 square cover illustration. It must feel like the inviting entrance to a bird-filled library and establish the book's magical premise at a glance.
+**Format and role:** 1:1 square, warm watercolor-and-colored-pencil children's cover, with separate text-free art and transparent lettering.
 
-**Scene:** Center a giant, timeworn green-covered copy of *《鸟类大百科》*, its spine facing left and cover slightly open. Its upturned pages form a pair of wings. Xiaoman stands safely on the book spine, one hand holding a page edge and the other reaching toward a drifting feather. Yuyu bursts from the book's central gap; its bookmark-like tail leaves a winding path of tiny feathers. Yuyu looks back toward the lower-right sound clue.
+**Book structure:** A real giant hardback lies open with BOTH inner-page surfaces facing upward and a readable central gutter. Layered paper edges sit above thin green covers resting beneath the pages; the spine curves naturally below the gutter. Do not draw a green box, two upright cover panels, or one exposed cover standing as a wall. Xiaoman stands with both feet on one open inner-page surface, not on the spine or an upright cover edge. A few right-hand pages may lift gently like wings while preserving the two-sided open-book structure.
 
-**Background:** Wash the background in pale golden morning light. In the far distance, include quiet silhouette cameos of a sparrow, owl, penguin, red-crowned crane, and parrot. They are an atmospheric promise of the book's contents, not competing characters.
+**Character and framing:** Keep the same five-year-old short-haired Xiaoman, cream leaf-patterned long sleeves, brick-red pinafore, socks and light brown canvas shoes. Her bag contains a notebook and colored pencils; a small recorder may preview a later chapter on this cover. One hand reaches toward a feather; the other balances naturally. Keep her complete body around 40% of the canvas height, with environmental space above, below, left and right. Check actual margins rather than assuming a requested percentage was obeyed.
 
-**Cuckoo clue:** At the lower right, add a very small cuckoo silhouette with two gold musical-note symbols and a gentle sound-wave suggestion. Keep it subdued, smaller than Yuyu, and clearly secondary.
+**Yuyu:** Golden-brown hoopoe book sprite, long slender curved black bill, black-tipped cinnamon fan crest, black-and-cream barred wings, bookmark tail and small rust-red gold-edged book pendant. Keep the full bird inside the safe area.
 
-**Palette:** Old-book green, warm gold, and creamy off-white, with golden-brown accents for Yuyu. Keep the full image warm, soft, and child-friendly.
+**Background and clue:** Real sky, foliage, grass and distant landscape continue to all four edges, with rooftops, woodland, wetland and snow peaks suggesting a magical journey across habitats. A small uncrested gray cuckoo with barred pale belly, long tail and two tiny gold notes sits on a secondary midground branch. Do not add crowds to fill margins.
 
-**Typography and text zones:** Use a calm, low-detail upper-left area for the title *《羽毛图书馆：会飞的鸟类大百科》*, with an aged-book gold-foil appearance. The current approved cover includes these readable lines:
+**Separate lettering:** Keep every word out of the text-free scene, including book-spine lettering. Render the following in the independent title/story PNG, using the rainforest-approved warm handwritten style and softly fading cream reading ground:
 
 ```text
+羽毛图书馆：
+会飞的鸟类大百科
+
 翻开一页，就飞进一个鸟的世界。
 听，布谷鸟在叫。
 ```
 
-Render the approved Chinese text when a finished cover is requested, following the text-checking rules above. Use blank zones only for a requested text-free base image.
+A separate transparent hand-drawn sticker uses the heading “寻找提示” and exact text: “羽毛和金色音符藏在哪里？跟着它们，开始探险吧。” Do not bake these layers into the original art.
 
-**Knowledge marker:** In a clear cover corner, place a small “feather bookmark” sticker with the current search prompt: “羽毛和金色音符藏在哪里？跟着它们，开始探险吧。”
-
-**Cover prompt:**
-
-```text
-1:1 square children's picture-book cover, warm watercolor-and-colored-pencil cartoon illustration. A giant timeworn green bird encyclopedia opens with wing-like pages. Five-year-old short-haired Xiaoman stands on the spine, one hand on a page and one reaching toward a feather, her cloth backpack holding notebook and pencils. Match the approved cover's outfit for this cover revision; do not carry it over as a permanent costume for other scenes. Golden-brown hoopoe Yuyu flies from the seam, with a black-tipped fan crest, curved slender bill, barred wings and bookmark tail. Pale golden dawn, tiny distant bird silhouettes. Lower-right a small uncrested gray cuckoo sings from a branch, with two gold note icons. Old-book green, warm gold and cream. Place the exact approved book title, two cover sentences and feather-bookmark search prompt in clear safe areas. No watermark, logo or photorealism.
-```
+The user's latest two-sided-book correction and binding-space instruction supersede the earlier spine-standing cover concept. Actual file availability is listed in the [bird asset index](../../鸟类绘本/正式素材/README.md).
 
 ## Prompt template
 
