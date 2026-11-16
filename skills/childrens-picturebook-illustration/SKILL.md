@@ -76,6 +76,8 @@ Apply these constraints to this project. The user's latest confirmed correction 
 ## 画面叙事：小满亲历场景
 
 - 小满应真正进入鸟类所在的环境，通过走、停、听、跨树根、扶栏、记录、侧身寻找等动作推进探索。人物的动作与视线要有明确对象，眼睛应看向正在观察的鸟或记录内容。
+- 每页先锁定一个具体观察目标，再按实际图中的左右、高低和距离同时调整头颈、下巴仰俯角及双眼瞳孔；不能用通用仰头笑脸代替观察，也不能只挪眼珠而让脸仍朝着空白处。目标是鸟时，核对是否误看羽羽、录音机、天空或另一只鸟；设备挡住视野时，在当前授权范围内自然降低持物手。全图与面部放大图都要看，成品不画视线箭头。
+- 鸟类P3采用书中延伸到书外的音符与光线道路，小满以有体积的人物站在宽光路上，鞋底有接触关系，不再成为纸面地图里的小人。金蓝音符在此页是魔法转场，区别于真实鸟鸣声源；P1仍保持小满站在展开内页上的封面结构。
 - 默认采用有亲历感的儿童高度中景，兼顾人物表情与环境。不要把小满缩成远处的小点，也不要把她固定放在画面边角、让鸟类排成展示队列。
 - 用前景遮挡、中景行动、远景栖息地，以及道路、水流、树枝的走向建立透视。需要拉开人与鸟距离时，可让鸟停在另一棵远树上；不要仅靠极端拉远镜头来表达高度。
 - 不同页面改变人物位置、动作、朝向、镜头角度和空间层次，避免反复使用同一蹲姿、同一条栈道、同一片金色芦苇或同一夕阳。
@@ -175,6 +177,8 @@ Apply these constraints to this project. The user's latest confirmed correction 
 **Format and role:** 1:1 square, warm watercolor-and-colored-pencil children's cover, with separate text-free art and transparent lettering.
 
 **Book structure:** A real giant hardback lies open with BOTH inner-page surfaces facing upward and a readable central gutter. Layered paper edges sit above thin green covers resting beneath the pages; the spine curves naturally below the gutter. Do not draw a green box, two upright cover panels, or one exposed cover standing as a wall. Xiaoman stands with both feet on one open inner-page surface, not on the spine or an upright cover edge. A few right-hand pages may lift gently like wings while preserving the two-sided open-book structure.
+
+**Page illustrations:** The visible inner pages contain sparse flat watercolor field-guide drawings of birds, a wing, feathers and leaves. Let the drawings follow page perspective and curvature and disappear naturally beneath Xiaoman's shoes; keep them visibly printed/painted on paper. Do not leave the pages entirely blank, add lettering, or turn the drawings into extra living birds or pop-up scenery.
 
 **Character and framing:** Keep the same five-year-old short-haired Xiaoman, cream leaf-patterned long sleeves, brick-red pinafore, socks and light brown canvas shoes. Her bag contains a notebook and colored pencils; a small recorder may preview a later chapter on this cover. One hand reaches toward a feather; the other balances naturally. Keep her complete body around 40% of the canvas height, with environmental space above, below, left and right. Check actual margins rather than assuming a requested percentage was obeyed.
 
