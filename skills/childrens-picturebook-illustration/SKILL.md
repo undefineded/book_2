@@ -66,7 +66,7 @@ Repeat only the most important anchors in every image prompt. For revisions, say
 
 Apply these constraints to this project. The user's latest confirmed correction takes precedence over older scripts, prompts and reference-image details. Use the [formal bird manuscript](../../鸟类绘本/正式制图剧本.md), [bird constraints](../../鸟类绘本/制图约束规范.md), and page-specific approved revisions as the current source.
 
-- **Book format:** 40-page picture book for ages 4–8 and shared parent-child reading. All pages, front/back covers and chapter openers use 1:1 square canvases. Chapter ranges are P3–P16, P17–P24, P25–P30 and P31–P36; P1–P2 are opening material and P37–P40 are closing material.
+- **Book format:** 40-page picture book for ages 4–8 and shared parent-child reading. All pages, front/back covers and chapter openers use 1:1 square canvases. Chapter ranges are P3–P12 (habitats), P13–P20 (birdsong), P21–P29 (body skills) and P30–P36 (daily life and the return journey); P1–P2 are opening material and P37–P40 are closing material. Use the [chapter comparison](../../鸟类绘本/章节重排与前后对照.md) to match older references by page title before applying the new numbers.
 - **Xiaoman / 小满:** a five-year-old girl with short hair and a small cloth backpack containing a notebook and colored pencils. Lock her age, face, haircut, bag and its contents across pages. Clothing and footwear MUST adapt to habitat, weather and activity: canvas/sports shoes on dry grassland, sturdy walking shoes and trousers in scrub, rain boots at streams or on muddy ground, warm clothing in cold environments, and light comfortable clothing indoors. Hats are used for sun, cold or rain as needed. Yellow rain boots are a wet-environment option, not a fixed character identifier.
 - **Yuyu / 羽羽:** a hoopoe bird book sprite with golden-brown feathers. Its crest rises or relaxes to express emotion; its tail feathers resemble a bookmark. Preserve these two magical identifiers, while retaining a recognizably bird-like body and clear, child-friendly expressions. Retain the approved small rust-red book pendant on a thin neck cord, with a gold border and feather emblem. Let its position and partial occlusion follow the pose; do not silently omit it or substitute it for the bookmark tail.
 - **Yuyu / 羽羽 — visual model lock:** Yuyu is always a hoopoe, never a cockatiel/parrot. It has a warm buff-to-golden-brown body, a long slender slightly down-curved black bill, broad black-and-cream zebra-barred wings, and a fan-shaped cinnamon crest with distinct black tips. The crest may open or relax with emotion; the long tail ends in a bookmark-like ribbon/feather. Keep these identifiers in every appearance. **Never give Yuyu a cockatiel's round yellow face, orange cheek patches, short hooked parrot beak, or smooth all-yellow crest.**
@@ -110,8 +110,8 @@ Apply these constraints to this project. The user's latest confirmed correction 
 - 分区排版，避免将百科标题加到封底正文上。检查正文与画面是否一致，例如已删除啄木鸟的页面不再沿用啄木鸟故事文案。
 - 笔记本内容也要叙事清楚：用几组可辨识的鸟形贴纸配长线、小点、彩色弧线；布谷鸟线索配两枚金色音符。录音机的真实波形和儿童自创记录符号分开表达。
 - **逐页科普台词：** 用户要求四章及章内各页都设计小满与羽羽的科普对话，当前覆盖P3—P36，每页小满一次发言、羽羽一次回应，不再每章只写一组概述。对话必须落到具体鸟类、现象或结构上；羽羽解释机制、用途或区别，保留物种与个体差异等边界，不以“还有什么秘密”等泛问和知识罗列代替科普。本仓库未收录独立问答台词稿；如需新增，依据当前正式剧本逐页核对并记录来源，未经排版修订不直接把长回答塞进贴纸，也不自动替换正式剧本。
-- **画面先于问题：** 用户进一步指出不能为讲知识而反推小满的问题。逐页先核对她此刻看见、听见、正在做什么，再用5岁孩子自然的口吻表达；不让她预知未介绍的术语、性别、祖先等结论，不捏造看不见的动作或心理。P7只有枝头布谷鸟鸣叫，不能突然问宝宝住哪里；P4不凭空引入蝙蝠，P19脚被水遮挡时不先讨论脚蹼，P35不先替松鸦安排种树意图。知识可以由羽羽在回应中适度延伸，但必须承接眼前的发现或疑问；每页的画面触发点另列供编辑核对，不作为角色台词朗读。
-- **句式与语气随现场变化：** 小满可以惊呼、陈述发现、猜测、比较、试探或直接追问，不强制每句以问号收尾。羽羽自然接着解释；不能通篇用“啦？呀？”结尾，也不能机械轮换“呢、吗、吧”代替句式变化。P14采用“它们的泥窝怎么能粘在屋檐下面不掉下来呢？”，P25采用“快看，那个‘土块’动起来了！”；保留孩子的现场感和具体的科学解释。
+- **画面先于问题：** 用户进一步指出不能为讲知识而反推小满的问题。逐页先核对她此刻看见、听见、正在做什么，再用5岁孩子自然的口吻表达；不让她预知未介绍的术语、性别、祖先等结论，不捏造看不见的动作或心理。P7只有枝头布谷鸟鸣叫，不能突然问宝宝住哪里；P4不凭空引入蝙蝠，P19脚被水遮挡时不先讨论脚蹼，P34不先替松鸦安排种树意图。知识可以由羽羽在回应中适度延伸，但必须承接眼前的发现或疑问；每页的画面触发点另列供编辑核对，不作为角色台词朗读。
+- **句式与语气随现场变化：** 小满可以惊呼、陈述发现、猜测、比较、试探或直接追问，不强制每句以问号收尾。羽羽自然接着解释；不能通篇用“啦？呀？”结尾，也不能机械轮换“呢、吗、吧”代替句式变化。燕子页可以问“它们的泥窝怎么能粘在屋檐下面不掉下来呢？”，鹌鹑页也可以惊呼“快看，那个‘土块’动起来了！”；这些是独立问答的语气示例，不自动替换正式剧本。保留孩子的现场感和具体的科学解释。
 
 ## 人体比例、手指与接触关系（重点验收）
 
@@ -149,7 +149,7 @@ Apply these constraints to this project. The user's latest confirmed correction 
 - P15标题正文与百科采用P16参考的饱满手写笔触和暖棕配色，不回退到偏细僵直的文字风格。文字修订保持原文案与无字画面；新文字层按工具实际输出尺寸保存，不为对齐存量宽度插值放大。
 - [草原剧本](../../非洲草原绘本/制图剧本.md)和[草原约束](../../非洲草原绘本/制图约束规范.md)尚未对应正式图像，不把剧本范围当作图页已完成。
 - 文字分层、特殊页、字形修订和PDF要求见[图片生产与验收规范](references/image-production.md)。不交付合画重复文件、扩图、超清、旧版、工具缓存或历史制作记录。
-- 鸟类续制保留已确认的P15三只火烈鸟和蓝灰湖水、P33双手在身前捧本的站姿、P36坐姿播放录音；本仓库未附这些页的正式图片，不能假定旧参考图存在。
+- 鸟类续制按新编号保留已确认的P35三只火烈鸟和蓝灰湖水、P32双手在身前捧本的站姿、P36坐姿播放录音；本仓库未附这些页的正式图片，不能假定旧参考图存在。新旧编号用章节对照表核对，雨林页码不随鸟类重排变化。
 - 更新已命名文件前核实当前Git提交可恢复原文件。只修改用户指定范围，将跨页适用的新规则记录进本Skill。
 - 用户要求同步上传时，验收后提交、推送并核实远端；没有上传授权时仅保存本地。只在用户明确要求时重置Git历史。
 
