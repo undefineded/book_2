@@ -1,12 +1,13 @@
 # 小满与羽羽 · 正式绘本文件
 
-本仓库仅收录当前制图剧本、制图约束规范、正式1254px无字原图、独立手写标题正文与小百科素材，以及新制作的阅读PDF。
+本仓库收录当前制图剧本、制图约束规范、正式1254px无字原图、独立手写标题正文与小百科素材、阅读PDF，以及绘本制作Skill。
 
 - [热带雨林大冒险：40页阅读版PDF](热带雨林绘本/阅读版/热带雨林大冒险-40页阅读版.pdf)
 - [雨林正式制图剧本](热带雨林绘本/正式制图剧本.md) · [雨林制图约束](热带雨林绘本/制图约束规范.md)
 - [鸟类正式制图剧本](鸟类绘本/正式制图剧本.md) · [鸟类制图约束](鸟类绘本/制图约束规范.md)
 - [非洲草原制图剧本](非洲草原绘本/制图剧本.md) · [草原制图约束](非洲草原绘本/制图约束规范.md)
 - [通用制图约束规范](制图规范/通用制图约束规范.md)
+- [绘本制作Skill](skills/childrens-picturebook-illustration/SKILL.md) · [图片生产与验收规范](skills/childrens-picturebook-illustration/references/image-production.md)
 
 ## 文件范围
 
@@ -25,6 +26,9 @@ P1、P2、P38无右侧百科。P37为观察记录，P39为亲子延伸，P40为�
 ## 目录
 
 ```text
+skills/childrens-picturebook-illustration/
+├── SKILL.md
+└── references/image-production.md
 制图规范/通用制图约束规范.md
 热带雨林绘本/
 ├── 正式制图剧本.md
