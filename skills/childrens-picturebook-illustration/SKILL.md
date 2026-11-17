@@ -12,7 +12,7 @@ Create illustrations that help a child follow, feel, and remember a story. Prior
 - 用户最新指示、已确认图稿与当前项目的交付规范优先于通用模板、旧提示词和历史脚本。已确认样式与范围继续沿用，不重复征询确认。
 - **最新规则：后续由用户在自己电脑上进行超分。Agent不再执行CPU或GPU超分，也不为提高场景分辨率做插值放大；新图直接保留生成时的原始像素尺寸。本仓库只交付正式原尺寸素材，不附超分工具或旧超分产物。**
 - 进行图页生成、去字、分层或交付时，读取本Skill的[图片生产与验收规范](references/image-production.md)。规范覆盖原尺寸源图保存、透明PNG、局部修字、阅读PDF及验收。
-- 雨林、鸟类与草原使用无字场景＋透明文字素材的分层PNG流程。项目文件以[仓库目录](../../README.md)及[通用制图约束](../../制图规范/通用制图约束规范.md)为准；鸟类已按新剧本完成40页，当前文件及尺寸以素材索引为准；草原已完成P6与P31两张正式无字图，其余页面及文字分层尚未制作。
+- 雨林、鸟类与草原使用无字场景＋透明文字素材的分层PNG流程。项目文件以[仓库目录](../../README.md)及[通用制图约束](../../制图规范/通用制图约束规范.md)为准；鸟类已按新剧本完成40页分层素材；草原已完成P1—P40共40张正式无字图，文字分层与阅读PDF尚未制作。当前文件及尺寸均以各项目素材索引为准。
 
 ## Scope and defaults
 
@@ -84,6 +84,7 @@ Use the [formal savanna manuscript](../../非洲草原绘本/制图剧本.md), [
 - **Gaze and body axis:** lock the actual observation target before drawing. Align feet or seated support, pelvis, chest, shoulders, neck, chin and both pupils toward that target as the pose requires; do not rotate only the eyes or head. Check the full composition and an enlarged face crop.
 - **Hands and fixed props:** inspect each hand enlarged for four fingers plus one thumb, plausible occlusion, correct palm/wrist connection and believable contact. Lock one cross-page model for true recurring props: the green magic book and leaf bookmark, tan backpack, notebook, colored pencils and binoculars; only perspective and distance may change their apparent size. If a project uses the confirmed recorder, it is also a fixed prop and must retain the same body, furry windscreen, controls and hand-to-device scale. Clothing, hats, outerwear and footwear may change with habitat, weather and activity; require continuity only within the same uninterrupted scene or outfit sequence.
 - **No-text production:** produce 1:1 text-free 1254px scene PNGs with continuous habitat to all edges and about 12%—15% natural composition margin. Titles, story text and savanna fact stickers remain separate transparent layers; do not leave artificial white typography holes in the scene.
+- **Savanna framing and binding space:** match the rainforest book's environment-to-character balance. In ordinary full-body pages, keep Xiaoman around 28%—35% of canvas height; use at most about 38% when a hand or recording action must remain legible. Expand real sky, grass, mud, woodland edge or indoor space around the group, keeping roughly 12%—15% continuous environmental buffer on all four sides. Keep faces, hands, animal bodies, the book spine and fixed props away from the future binding side. Never satisfy the margin by adding white borders, mirrored strips, blurred extensions or by shrinking Xiaoman into an unreadable distant dot.
 
 ## 画面叙事：小满亲历场景
 
@@ -165,7 +166,7 @@ Use the [formal savanna manuscript](../../非洲草原绘本/制图剧本.md), [
 - 雨林按`热带雨林绘本/正式素材/P页码｜标题/`归档，每页保存`无字图-1254px.png`、`标题与正文-透明底.png`及有需要的专用纸签。来源与实际尺寸核对后逐字节保存，不为凑尺寸缩放场景。
 - 雨林文案以[正式制图剧本](../../热带雨林绘本/正式制图剧本.md)及[制图约束](../../热带雨林绘本/制图约束规范.md)为准。P13保留两侧连续护栏，P15保留自然站姿和扶栏手臂。
 - P15标题正文与百科采用P16参考的饱满手写笔触和暖棕配色，不回退到偏细僵直的文字风格。文字修订保持原文案与无字画面；新文字层按工具实际输出尺寸保存，不为对齐存量宽度插值放大。
-- [草原剧本](../../非洲草原绘本/制图剧本.md)和[草原约束](../../非洲草原绘本/制图约束规范.md)尚未对应正式图像，不把剧本范围当作图页已完成。
+- 草原P1—P40正式无字图已按[草原剧本](../../非洲草原绘本/制图剧本.md)和[草原约束](../../非洲草原绘本/制图约束规范.md)完成；独立文字层和阅读PDF尚未完成，不把剧本文案或无字图范围误报为分层成品。
 - 文字分层、特殊页、字形修订和PDF要求见[图片生产与验收规范](references/image-production.md)。不交付合画重复文件、扩图、超清、旧版、工具缓存或历史制作记录。
 - 鸟类按新编号保留已确认的P35三只火烈鸟和蓝灰湖水、P32双手在身前捧本的站姿、P36坐姿播放录音；正式图片以[素材索引](../../鸟类绘本/正式素材/README.md)列出的当前文件为准。新旧编号用章节对照表核对，雨林页码不随鸟类重排变化。
 - 更新已命名文件前核实当前Git提交可恢复原文件。只修改用户指定范围，将跨页适用的新规则记录进本Skill。
