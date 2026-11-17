@@ -10,6 +10,7 @@
 - [非洲草原制图剧本](非洲草原绘本/制图剧本.md) · [草原制图约束](非洲草原绘本/制图约束规范.md)
 - [通用制图约束规范](制图规范/通用制图约束规范.md)
 - [绘本制作Skill](skills/childrens-picturebook-illustration/SKILL.md) · [图片生产与验收规范](skills/childrens-picturebook-illustration/references/image-production.md)
+- [绘本背景生成器制作文档](工具/绘本背景生成器/制作文档.md)：标题背景局部推拉与透明羽化、小百科预设与自动装饰；当前为制作方案，尚未开发。
 
 ## 文件范围
 
@@ -34,6 +35,7 @@ skills/childrens-picturebook-illustration/
 ├── SKILL.md
 └── references/image-production.md
 制图规范/通用制图约束规范.md
+工具/绘本背景生成器/制作文档.md
 热带雨林绘本/
 ├── 正式制图剧本.md
 ├── 制图约束规范.md
