@@ -12,7 +12,7 @@ Create illustrations that help a child follow, feel, and remember a story. Prior
 - 用户最新指示、已确认图稿与当前项目的交付规范优先于通用模板、旧提示词和历史脚本。已确认样式与范围继续沿用，不重复征询确认。
 - **最新规则：后续由用户在自己电脑上进行超分。Agent不再执行CPU或GPU超分，也不为提高场景分辨率做插值放大；新图直接保留生成时的原始像素尺寸。本仓库只交付正式原尺寸素材，不附超分工具或旧超分产物。**
 - 进行图页生成、去字、分层或交付时，读取本Skill的[图片生产与验收规范](references/image-production.md)。规范覆盖原尺寸源图保存、透明PNG、局部修字、阅读PDF及验收。
-- 雨林与鸟类使用无字场景＋透明文字素材的分层PNG流程。项目文件以[仓库目录](../../README.md)及[通用制图约束](../../制图规范/通用制图约束规范.md)为准；鸟类已按新剧本完成40页，当前文件及尺寸以素材索引为准；草原仍只有剧本和规范。
+- 雨林、鸟类与草原使用无字场景＋透明文字素材的分层PNG流程。项目文件以[仓库目录](../../README.md)及[通用制图约束](../../制图规范/通用制图约束规范.md)为准；鸟类已按新剧本完成40页，当前文件及尺寸以素材索引为准；草原已完成P6与P31两张正式无字图，其余页面及文字分层尚未制作。
 
 ## Scope and defaults
 
@@ -73,6 +73,17 @@ Apply these constraints to this project. The user's latest confirmed correction 
 - **Cuckoo clue / 布谷鸟声音线索 — visual model lock:** The cuckoo is separate from Yuyu. The confirmed species features are: smooth uncrested slate-gray head and breast, dark gray-brown folded wings, pale belly with fine dark horizontal bars, yellow eye ring, slender straight bill, long dark tail with pale spots. When singing visibly, BOTH feet grip a branch, the body sits side-on roughly horizontally, the beak opens and the head lifts slightly. It does not cling vertically to a trunk like a woodpecker. Simplify into a cute cartoon without losing these identifiers. On pages needing only a hint, use two small golden note icons, sound rings or a distant silhouette. Keep it secondary unless the story centers on it.
 - **Knowledge label / 鸟类小百科:** story pages and chapter openers use a compact cream hand-journal fact sticker in a corner. Keep its exact fact text readable and outside faces, focal actions and story text. Covers, dedication and ending pages follow their specific manuscript roles (such as a feather-bookmark search prompt or parent-child task), rather than forcing a fact sticker onto every page.
 - **Species and pronunciation proofing:** review prose readability before drawing lettering, then inspect actual PNG glyphs, simplified bird radicals, tone marks and neutral tones. Follow the [bird name/pronunciation table](../../鸟类绘本/制图约束规范.md): 雌鸟 is cī niǎo, 亲戚 is qīn qi; 嗓 and 噪 are different characters. P16 compares 斑胸噪鹛、橙翅噪鹛 and the Mexican Clarion Wren (号声鹪鹩, Troglodytes tanneri), linked by magic book pages rather than claiming a shared natural habitat. Match their chest/wing/eyebrow features to the formal manuscript; do not reuse the old white-bibbed birds or substitute Musician Wren.
+
+## Active project constraints: 《非洲草原大冒险》
+
+Use the [formal savanna manuscript](../../非洲草原绘本/制图剧本.md), [savanna constraints](../../非洲草原绘本/制图约束规范.md), the shared character sheets and the user's latest corrections as the source of truth.
+
+- **Travel versus observation:** the magic book carries Xiaoman only on designated travel pages such as P3, P13, P22 and P30. At an animal observation point, Xiaoman steps onto safe ground or enters the fixed observation hut; the book shrinks, closes or rests nearby. Do not keep her standing on the book while observing wildlife, and do not add a daytime protection dome.
+- **Night protection:** on P31—P35 the magic book may freely change size, fly above the camp lounge and open symmetrically, then cast a soft semi-transparent golden-green dome downward over Xiaoman and Yuyu. Contain the light inside the dome so it does not shine through the screen window or disturb wildlife.
+- **Symmetric open-book lock:** whenever the book is open, its left and right page blocks must be equal in width, thickness and opening angle, with a centered readable gutter, matching layered page edges and continuous thin green covers. Reject a one-wing shape, mismatched halves, twisted spine or one side larger than the other.
+- **Gaze and body axis:** lock the actual observation target before drawing. Align feet or seated support, pelvis, chest, shoulders, neck, chin and both pupils toward that target as the pose requires; do not rotate only the eyes or head. Check the full composition and an enlarged face crop.
+- **Hands and fixed props:** inspect each hand enlarged for four fingers plus one thumb, plausible occlusion, correct palm/wrist connection and believable contact. Lock one cross-page model for true recurring props: the green magic book and leaf bookmark, tan backpack, notebook, colored pencils and binoculars; only perspective and distance may change their apparent size. If a project uses the confirmed recorder, it is also a fixed prop and must retain the same body, furry windscreen, controls and hand-to-device scale. Clothing, hats, outerwear and footwear may change with habitat, weather and activity; require continuity only within the same uninterrupted scene or outfit sequence.
+- **No-text production:** produce 1:1 text-free 1254px scene PNGs with continuous habitat to all edges and about 12%—15% natural composition margin. Titles, story text and savanna fact stickers remain separate transparent layers; do not leave artificial white typography holes in the scene.
 
 ## 画面叙事：小满亲历场景
 
