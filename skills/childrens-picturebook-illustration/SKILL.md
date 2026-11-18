@@ -24,6 +24,14 @@ Create illustrations that help a child follow, feel, and remember a story. Prior
 - Warmth does not mean every page is golden sunset: use habitat-appropriate greens, blues, earth tones, moonlight, snow and indoor light while preserving a friendly, cohesive mood.
 - Never add lettering, captions, logos, watermarks, or pseudo-text unless the user explicitly requests it. For a composed page, plan quiet space for the approved text. For a separate text-free scene, restore a complete natural environment without artificial typography blanks or label-shaped patches.
 
+## 《贝壳图书馆》制作约束
+
+- 以[逐页剧本](../../贝壳图书馆/制图剧本.md)的潮汐表、物种参考和当前确认图为准。封面与第一章以连续沙面为主，几块大礁石之间留足沙面。栈道台阶接到沙丘上的连续木板，P13 的礁石在 P21 被淹没时，高处回岸栈道仍可通行。
+- 先按五岁儿童的比例定肩、髋、膝、踝，再画裙摆。盘腿时臀部由凳面承托，膝盖收在上身下方，两条大腿和小腿都短，脚踝自然交叠，鞋落在凳面。修改腿偏长的图时，实际缩短膝到踝等关节间距，并在相同上身尺度下比较膝盖外沿与鞋的位置。
+- 侧身站立或迈步先定肩胸和骨盆的朝向，再按同一视点画裤腰、侧缝、膝盖和鞋尖。明确哪只脚承重、哪只脚试探。P3 的前脚探到浪线旁的湿沙，后脚踩实干沙并承重。
+- 打开的硬皮书先确定一条连续中缝。两侧书页堆与各自下方的薄封皮使用同一视点、开合角和消失方向，书脊在中缝正下方。书页图案随纸面转折。捧书手、书签和停在中缝的羽羽都要有清楚的支撑与遮挡。
+- 作画前定观察对象与水面位置。羽羽停在水面上方的实际支承物上。水下视点按剧本只露水面倒影或局部脸，防水画板留在水上。观察页先锁定人物、视线、手势与对象的空间关系，再拉开镜头。
+
 ## Start with an illustration brief
 
 Before generating, derive or request the smallest useful brief:
